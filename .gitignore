@@ -1,0 +1,38 @@
+# ---- Arquivos de Esquema e Layout (DipTrace) ----
+/SCH_PCB/*.dch
+/SCH_PCB/*.dip
+
+# ---- MPLAB X - Arquivos de Compilação e Binários ----
+**/build/
+**/dist/
+**/nbproject/private/
+**/nbproject/Makefile-*
+**/nbproject/Package-*
+
+# ---- MPLAB X - Arquivos Temporários e Logs dos Compiladores ----
+**/*.o
+**/*.d
+**/*.p1
+**/*.pre
+**/*.sym
+**/*.sdb
+**/*.lst
+**/*.cof
+**/*.elf
+**/*.hxl
+**/*.map
+**/*.rep
+**/*.rlf
+**/*.mci
+
+# ---- MPLAB Code Configurator (MCC) - Arquivos Temporários ----
+**/mcc_generated_files/mcc_logs/
+**/.mcc/
+
+# ---- Logs de Depuração e Arquivos de Sistema ----
+**/debug/
+**/*.log
+**/*.err
+.DS_Store
+Thumbs.db
+*.bak
