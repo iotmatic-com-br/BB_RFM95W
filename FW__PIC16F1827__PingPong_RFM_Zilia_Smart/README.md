@@ -1,10 +1,10 @@
-# FW__PIC17F1827__PingPong_RFM_Zilia_Smart
+# FW__PIC16F1827__PingPong_RFM_Zilia_Smart
 
-Esta pasta contém o firmware para **PIC17F1827** utilizado no teste de comunicação Ping-Pong LoRa com a placa **BB_RFM95W** na plataforma Zilia Smart.
+Esta pasta contém o firmware para **PIC16F1827** utilizado no teste de comunicação Ping-Pong LoRa com a placa **BB_RFM95W** na plataforma Zilia Smart.
 
 ## 📌 Descrição
 
-*pROJETO COMPLETO no ambiente MPLABX*
+*PROJETO COMPLETO no ambiente MPLABX*
 
 ## 🛠️ Compilação e Gravação
 
