@@ -5,8 +5,16 @@
  *      Comunicacao LoRa P2P entre RFM95W e Módulo Lora Zilia )Smart Modular)
  *      Frequencia: 906.300.000 Hz
  * 
- *  - PIC pisca o led verde e envia PING.
- *  - Se receber PONG, pisca o vermelho (timeout 5s)
+ * Dispositivos envolvidos:
+ * 
+ *  Dispositivo 1: Placa PIC+BB_RFM95W
+ *    - Pisca o led verde e envia PING.
+ *    - Espera 'ate' 5s pela resposta do dispositivo 2
+ *      - Se receber PONG, pisca o vermelho
+ *  Dispositivo 2: App PC (Windows) 
+ *    - Inicia com o módulo Zilia em modo RX continuo
+ *    - Se receber o PING, ajusta o módulo Zilia para TX unico, 
+ *      envia PONG e retorna ao modo RX continuo
  * 
  *                                                          10/11/2026
 **********************************************************************  */

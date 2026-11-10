@@ -36,3 +36,20 @@
 .DS_Store
 Thumbs.db
 *.bak
+
+# PlatformIO
+.pio/
+.vscode/
+.sematic/
+.clang_dox
+compile_commands.json
+
+# Compilação e Binários
+*.bin
+*.elf
+*.map
+*.hex
+
+# Arquivos temporários do OS
+.DS_Store
+Thumbs.db
