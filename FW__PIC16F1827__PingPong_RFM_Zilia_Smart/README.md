@@ -10,3 +10,7 @@ Esta pasta contém o firmware para **PIC16F1827** utilizado no teste de comunica
 
 * **Placa Alvo:** Placa customizada PIC17F1827
 * **Módulo RF:** RFM95W (via breakout BB_RFM95W)
+
+# Protótipo com PIC16F1827
+
+![ ](Prototipo__PIC__BB_RFM95.jpg)

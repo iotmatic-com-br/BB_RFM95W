@@ -1,6 +1,6 @@
 # BB_RFM95W - Breakout Board para Módulo LoRa RFM95W
 
-![BB_RFM95 Top View](TOP.png)
+![BB_RFM95 Top View](MONTAGEM.jpg)
 
 A **BB_RFM95W** é uma placa de expansão (*breakout board*) desenvolvida pela **[IoTmatic.com.br](https://iotmatic.com.br)** para facilitar a integração e prototipagem com o consagrado módulo LoRa **RFM95W**. 
 
@@ -12,7 +12,7 @@ Ela foi projetada para acelerar o desenvolvimento desde a fase de protótipos em
 
 | Vista Superior (Top) | Vista Inferior (Bottom) |
 | :---: | :---: |
-| ![Top View](TOP.png) | ![Bottom View](BOTTOM.png) |
+| ![Top View](TOP.jpg) | ![Bottom View](BOTTOM.jpg) |
 
 ---
 

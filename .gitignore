@@ -1,6 +1,8 @@
 # ---- Arquivos de Esquema e Layout (DipTrace) ----
-/SCH_PCB/*.dch
-/SCH_PCB/*.dip
+/SCH_PCB__PIC/*.dch
+/SCH_PCB__PIC/*.dip
+/SCH_PCB__PBB/*.dch
+/SCH_PCB__BB/*.dip
 
 # ---- MPLAB X - Arquivos de Compilação e Binários ----
 **/build/
