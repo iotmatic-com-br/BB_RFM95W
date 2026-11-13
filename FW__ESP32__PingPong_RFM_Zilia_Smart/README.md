@@ -1,3 +1,5 @@
+# TODO -- Breve
+
 # FW__ESP32__PingPong_RFM_Zilia_Smart
 
 Esta pasta contém o firmware para **ESP32** utilizado no teste de comunicação Ping-Pong LoRa com a placa **BB_RFM95W** na plataforma Zilia Smart.
