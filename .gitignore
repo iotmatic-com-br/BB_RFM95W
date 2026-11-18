@@ -4,6 +4,7 @@
 /SCH_PCB__BB/*.dch
 /SCH_PCB__BB/*.dip
 
+
 # ---- MPLAB X - Arquivos de Compilação e Binários ----
 **/build/
 **/dist/
